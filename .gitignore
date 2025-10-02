@@ -1,0 +1,23 @@
+# Compiled binaries
+aes_decrypt
+
+# Object files
+*.o
+*.obj
+
+# Build artifacts
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Temporary files
+*.tmp
+*.temp
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
